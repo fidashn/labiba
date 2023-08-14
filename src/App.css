@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bg-video{
+  /* border: 3px red solid; */
+  object-fit: cover;
+  width: 50vw;
+  height: 100vh;
+}
+.description{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px 0 20px;
+}
+
+h2{
+  color: #1f0d44;
+  border-bottom: 2px solid gold;
+  width: 185px;
+  display: flex;
+}
+h3 {
+  color: #1f0d44;
+  border-bottom: 2px solid gold;
+  width: 420px;
+  display: flex;
+}
