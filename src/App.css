@@ -13,6 +13,7 @@
   width: 50vw;
   height: 100vh;
 }
+
 .description{
   display: flex;
   text-align: center;
@@ -28,9 +29,15 @@ h2{
   width: 185px;
   display: flex;
 }
-h3 {
+h3{
   color: #1f0d44;
   border-bottom: 2px solid gold;
   width: 420px;
   display: flex;
+  justify-content: center;
+
+  /* border: 3px red solid; */
 }
+/* p{
+  border: 3px red solid;
+} */
