@@ -21,7 +21,8 @@ function App() {
         </p>
       </div>
       <div className="video-wrapper">
-      <video src={videoBg} muted loop autoPlay className='bg-video'></video>
+        hhhh
+      {/* <video src={videoBg} height="100vh" muted loop autoPlay className='bg-video'></video> */}
       </div>
     </div>
   );
